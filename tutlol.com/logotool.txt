@@ -1,0 +1,4 @@
+url image="https://1.bp.blogspot.com/-woQwxWQp2lE/V_L_6pjUuAI/AAAAAAAAABw/aR6OhHkLIkMjbp-uicB2aGEcxF53CV9QgCLcB/s1600/banner1.jpg" link direct="http://www.skinlolmax.com"
+url image="https://1.bp.blogspot.com/-YfcZZDDimM0/V_L_61QL0_I/AAAAAAAAAB4/JjYt0CCw8p0BBRay-UQWzlWBMI9AnCBGwCLcB/s1600/banner2.jpg" link direct="http://www.skinlolmax.com"
+url image="https://3.bp.blogspot.com/-rYStBscKtrM/V_L_6kcivaI/AAAAAAAAAB0/BiyX9ggDEH4Spv_O683ljqlaMAmHROpDwCLcB/s1600/banner3.jpg" link direct="http://www.skinlolmax.com"
+url image="https://4.bp.blogspot.com/-tb2kYgdP44E/V_L_7CGfIUI/AAAAAAAAAB8/UcsJY6zlQAorJyvx2tNYB3BkmOOD2WUSwCLcB/s1600/banner4.jpg" link direct="http://www.skinlolmax.com"
