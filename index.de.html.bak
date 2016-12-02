@@ -227,7 +227,7 @@
     <a name="comments"></a>
     <div class="scrollblock block-comments">
         <h2>Kommentare</h2>
-        
+        <div id="disqus_thread"></div>
         <script type="text/javascript">
             var disqus_shortname = 'git-the-simple-guide';
             /* * * DON'T EDIT BELOW THIS LINE * * */

@@ -237,7 +237,7 @@
     <a name="comments"></a>
     <div class="scrollblock block-comments">
         <h2>bình luận</h2>
-        
+        <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'git-the-simple-guide'; // required: replace example with your forum shortname

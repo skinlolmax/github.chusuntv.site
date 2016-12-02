@@ -308,7 +308,7 @@
 		<a name="comments"></a>
 		<div class="scrollblock block-comments">
 		        <h2>댓글</h2>
-			
+			<div id="disqus_thread"></div>
 			<script type="text/javascript">
 			//<![CDATA[
 				/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
