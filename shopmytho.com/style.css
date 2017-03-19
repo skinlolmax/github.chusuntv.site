@@ -105,7 +105,7 @@ a.button:hover, input.button:hover {
 }
 
 header {
-    height: 80px;
+    height: 120px;
     margin: 0 auto;
     width: 1124px;
     position: relative;
@@ -167,7 +167,7 @@ header #search input {
 }
 
 .nav-menu{
-	background: none repeat scroll 0 0 #ff0000;
+	background: none repeat scroll 0 0 rgba(187, 78, 255, 0.95)
 	height: 100px;
 	width: 100%;
 	position: absolute;
