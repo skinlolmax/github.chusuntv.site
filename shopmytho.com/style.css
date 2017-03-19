@@ -168,7 +168,7 @@ header #search input {
 
 .nav-menu{
 	background: none repeat scroll 0 0 #ff0000;
-	height: 60px;
+	height: 100px;
 	width: 100%;
 	position: absolute;
 	z-index: 9000;
@@ -357,7 +357,7 @@ nav {
 #content {
     margin: 0 auto;
     width: 1024px;
-	padding-top: 10px;
+	padding-top: 100px;
 }
 #main-content {
     display: inline;
