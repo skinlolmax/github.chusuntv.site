@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-//<![CDATA[
 (function(window) {
     var FuckAdBlock = function(options) {
         this._options = {
@@ -219,5 +217,3 @@ jQuery(document).ready(function($){function adBlockNotDetected(){$('body').show(
 function adBlockDetected(){$('body').html('<div style="margin: auto; padding: 80px; background: #F6F6F6; clear: both; border: 1px solid #ccc; position: relative; height: auto; width: 95%; max-width: 550px;"><div style="font-weight: bold; font-size: 20px; color: red; text-alight: center">Bạn vui lòng tắt plugin AdBlock Plus. Để để có thể tiếp tục vui lòng làm theo hình <br/><br/><img src="https://4.bp.blogspot.com/-8AgYNcgzuUE/WPVnqs6gezI/AAAAAAAACLw/RZ78b5uHB5cYWiCUPimlky9peLa7nU4tQCLcB/s1600/kill-adblock-plus-in-your-websitesite.jpg" alt="Disable on this site"> <br/><br/>Sau đó nhấn [ <a href="http://www.3dcameralol.com/p/kill-adblock-plus.html" target="_blank">tiếp tục truy cập</a> ] để kiểm tra lại. Thanks !</div>');}
 if(typeof fuckAdBlock==='undefined'){adBlockDetected();}else{fuckAdBlock.onDetected(adBlockDetected);fuckAdBlock.onNotDetected(adBlockNotDetected);}
 fuckAdBlock.setOption('checkOnLoad',false);fuckAdBlock.setOption({debug:false,checkOnLoad:true,resetOnEnd:false});});
-//]]>
-</script>
