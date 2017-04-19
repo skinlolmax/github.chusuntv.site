@@ -101,10 +101,10 @@ ul.whyus_list {
 }
 .slider_button2 {
 	font-size: 12px;
-	width: 180px;
+	width: 120px;
 	height: 35px;
 	line-height: 37px;
-	margin-left: 16px;
+	margin-left: 3px;
 	background: url(../images/sbut-02.png) no-repeat -25px -6px;
 }
 .black_button {
@@ -589,10 +589,10 @@ ul.whyus_list {
 }
 .slider_button2 {
 	font-size: 10px;
-	width: 180px;
-	height: 35px;
-	line-height: 37px;
-	margin-left: 16px;
+	width: 90px;
+	height: 25px;
+	line-height: 25px;
+	margin-left: 10px;
 	background: url(../images/sbut-02.png) no-repeat -25px -6px;
 }
 .black_button {
@@ -1306,9 +1306,9 @@ ul.whyus_list {
 }
 .slider_button2 {
 	font-size: 7px;
-	width: 180px;
-	height: 35px;
-	line-height: 37px;
+	width: 65px;
+	height: 20px;
+	line-height: 20px;
 	margin-left: 16px;
 	background: url(../images/sbut-02.png) no-repeat -25px -6px;
 }
