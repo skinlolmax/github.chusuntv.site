@@ -12,6 +12,7 @@ CharacterSkins1.zip
 CharacterSkins2.zip
 CharacterTextures.zip
 CharacterTextures1.zip
+CharacterTextures10.zip
 CharacterTextures2.zip
 CharacterTextures3.zip
 CharacterTextures4.zip
